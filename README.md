@@ -11,7 +11,7 @@ If you find this project useful, please recommend it to your friends and relativ
 
 For one-click deployment, please click the "Deploy to Heroku" button below. For details, please refer to [WIKI] (https://github.com/gfw-breaker/heroku-node-proxy/wiki).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Breeaad/Pineapple)
 
 Note: This proxy is available for most websites but cannot play YouTube videos. To watch a YouTube video, please use [you2php-heroku](https://github.com/gfw-breaker/you2php-heroku#--end--).
 
